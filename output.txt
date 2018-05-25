@@ -1,3 +1,0 @@
-and they're of software
-
-(Comment: I was testing the --inmic command from pocketsphinx and that was the output. Difficult to train at the lab due to background noise)
