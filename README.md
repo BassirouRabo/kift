@@ -2,7 +2,9 @@
 
 ## About
 
-Voice control system in C using CMUSphinx. PocketSphinx/Sphinx use three models - an acoustic model, a language model and a phonetic dictionary. As I understand them, the acoustic model converts audio samples into phonemes(?), the language model contains probabilities of sequences of words, and the phonetic dictionary is a mapping of words to phonemes.
+Voice control system in C using Carnegie Mellon University Sphinx (CMUSphinx). PocketSphinx/Sphinx use three models - an acoustic model, a language model and a phonetic dictionary. As I understand them, the acoustic model converts audio samples into phonemes(?), the language model contains probabilities of sequences of words, and the phonetic dictionary is a mapping of words to phonemes.
+
+In the
 
 ## Required Modules
 
@@ -19,6 +21,7 @@ Voice control system in C using CMUSphinx. PocketSphinx/Sphinx use three models 
 
 * [PocketSphinx API Documentation](https://cmusphinx.github.io/doc/pocketsphinx/index.html#intro_sec)
 * [Sphinx Knowledge Base Tool](http://www.speech.cs.cmu.edu/tools/lmtool-new.html)
+* [English (United States) model](https://sourceforge.net/projects/cmusphinx/files/Acoustic%20and%20Language%20Models/)
 
 ## Authors
 
@@ -28,6 +31,7 @@ Voice control system in C using CMUSphinx. PocketSphinx/Sphinx use three models 
 - [Zeid Tisnes](https://github.com/zedin27)
 
 ## Resources
+* [Understanding phonetic symbols](http://www.ling.upenn.edu/courses/Fall_2014/ling115/phonetics.html)
 * [modeldir stuff](https://cmusphinx.github.io/wiki/tutorialpocketsphinx/)
 * [train acoustic model](https://cmusphinx.github.io/wiki/tutorialam/)
 
