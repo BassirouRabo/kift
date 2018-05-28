@@ -1,0 +1,117 @@
+Language model created by QuickLM on Fri May 25 00:44:29 EDT 2018
+Copyright (c) 1996-2010 Carnegie Mellon University and Alexander I. Rudnicky
+
+The model is in standard ARPA format, designed by Doug Paul while he was at MITRE.
+
+The code that was used to produce this language model is available in Open Source.
+Please visit http://www.speech.cs.cmu.edu/tools/ for more information
+
+The (fixed) discount mass is 0.5. The backoffs are computed using the ratio method.
+This model based on a corpus of 23 sentences and 25 words
+
+\data\
+ngram 1=25
+ngram 2=46
+ngram 3=23
+
+\1-grams:
+-0.7782 </s> -0.3010
+-0.7782 <s> -0.2218
+-2.1399 APPLE -0.2218
+-2.1399 DINNER -0.2218
+-2.1399 FOOD -0.2218
+-2.1399 HE -0.2218
+-2.1399 I -0.2218
+-2.1399 INTERNET -0.2218
+-2.1399 IT -0.2218
+-2.1399 LUNCH -0.2218
+-2.1399 ME -0.2218
+-2.1399 MEMES -0.2218
+-2.1399 PLACE -0.2218
+-2.1399 SEARCH -0.2218
+-2.1399 SHE -0.2218
+-2.1399 SPEAK -0.2218
+-2.1399 TALK -0.2218
+-2.1399 TIME -0.2218
+-2.1399 WEATHER -0.2218
+-2.1399 WHAT -0.2218
+-2.1399 WHEN -0.2218
+-2.1399 WHERE -0.2218
+-2.1399 WHO -0.2218
+-2.1399 WHY -0.2218
+-2.1399 YOU -0.2218
+
+\2-grams:
+-1.6628 <s> APPLE 0.0000
+-1.6628 <s> DINNER 0.0000
+-1.6628 <s> FOOD 0.0000
+-1.6628 <s> HE 0.0000
+-1.6628 <s> I 0.0000
+-1.6628 <s> INTERNET 0.0000
+-1.6628 <s> IT 0.0000
+-1.6628 <s> LUNCH 0.0000
+-1.6628 <s> ME 0.0000
+-1.6628 <s> MEMES 0.0000
+-1.6628 <s> PLACE 0.0000
+-1.6628 <s> SEARCH 0.0000
+-1.6628 <s> SHE 0.0000
+-1.6628 <s> SPEAK 0.0000
+-1.6628 <s> TALK 0.0000
+-1.6628 <s> TIME 0.0000
+-1.6628 <s> WEATHER 0.0000
+-1.6628 <s> WHAT 0.0000
+-1.6628 <s> WHEN 0.0000
+-1.6628 <s> WHERE 0.0000
+-1.6628 <s> WHO 0.0000
+-1.6628 <s> WHY 0.0000
+-1.6628 <s> YOU 0.0000
+-0.3010 APPLE </s> -0.3010
+-0.3010 DINNER </s> -0.3010
+-0.3010 FOOD </s> -0.3010
+-0.3010 HE </s> -0.3010
+-0.3010 I </s> -0.3010
+-0.3010 INTERNET </s> -0.3010
+-0.3010 IT </s> -0.3010
+-0.3010 LUNCH </s> -0.3010
+-0.3010 ME </s> -0.3010
+-0.3010 MEMES </s> -0.3010
+-0.3010 PLACE </s> -0.3010
+-0.3010 SEARCH </s> -0.3010
+-0.3010 SHE </s> -0.3010
+-0.3010 SPEAK </s> -0.3010
+-0.3010 TALK </s> -0.3010
+-0.3010 TIME </s> -0.3010
+-0.3010 WEATHER </s> -0.3010
+-0.3010 WHAT </s> -0.3010
+-0.3010 WHEN </s> -0.3010
+-0.3010 WHERE </s> -0.3010
+-0.3010 WHO </s> -0.3010
+-0.3010 WHY </s> -0.3010
+-0.3010 YOU </s> -0.3010
+
+\3-grams:
+-0.3010 <s> APPLE </s>
+-0.3010 <s> DINNER </s>
+-0.3010 <s> FOOD </s>
+-0.3010 <s> HE </s>
+-0.3010 <s> I </s>
+-0.3010 <s> INTERNET </s>
+-0.3010 <s> IT </s>
+-0.3010 <s> LUNCH </s>
+-0.3010 <s> ME </s>
+-0.3010 <s> MEMES </s>
+-0.3010 <s> PLACE </s>
+-0.3010 <s> SEARCH </s>
+-0.3010 <s> SHE </s>
+-0.3010 <s> SPEAK </s>
+-0.3010 <s> TALK </s>
+-0.3010 <s> TIME </s>
+-0.3010 <s> WEATHER </s>
+-0.3010 <s> WHAT </s>
+-0.3010 <s> WHEN </s>
+-0.3010 <s> WHERE </s>
+-0.3010 <s> WHO </s>
+-0.3010 <s> WHY </s>
+-0.3010 <s> YOU </s>
+
+\end\

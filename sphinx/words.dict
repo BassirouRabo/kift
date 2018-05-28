@@ -2,8 +2,6 @@ APPLE		AE P AH L
 DINNER		D IH N ER
 FOOD		F UW D
 HE			HH IY
-HELLO		HH AH L OW
-HELLO(2)	HH EH L OW
 I			AY
 INTERNET	IH N T ER N EH T
 IT			IH T
@@ -28,7 +26,6 @@ WHERE(2)	HH W EH R
 WHO			HH UW
 WHY			W AY
 WHY(2)		HH W AY
-WORLD		W ER L D
 YOU			Y UW
 
-Comment: I'm playing with the cmu dictionary for this (check resources)
+Comment: I'm playing with the cmu dictionary for this (check resources) AND it must be in .dict file
